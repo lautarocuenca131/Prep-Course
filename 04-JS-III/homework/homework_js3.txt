@@ -1,0 +1,5 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se 
+lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: Un array es un tipo de dato que nos permite guardar todo tipo de datos dentro de el de manera ordenada. 
+    Como si fuese una caja donde podiamos poner cosas y que esten guardadas en el orden en las que las vamos poniendo.
