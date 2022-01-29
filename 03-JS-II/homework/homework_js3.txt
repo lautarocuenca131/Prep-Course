@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: El for es un tipo de bucle, un bucle es una accion o un proceso que se repite hasta que se le pida que se dentenga
+El for tiene 3 partes, la primer parte es la parte de la variable, es decir, que vas a usar para realizar la accion.
+
+La segunda parte es hasta cuando se va a realizar el bucle, ejemplo (hasta que la variable sea igual a 5).
+
+Y la tercer parte es de a cuanto quieres que avance la variable, es decir si quieres que vaya avanzando de a uno o de a dos, etc.
+
+* `&&`, `||`, `!`: A estos simbolos se les llama operadores logicos y cada uno tiene una funcion especifica. 
+El primero de todos es este '&&' tambien llamado "AND" que en español vendria siendo "Y", se usa cuando quieres que dos 
+condiciones se cumplan simultaneamente, por ejemplo, si un numero es mayor a 10 "Y" menos que 50 ejecuta una accion.
+
+El segundo es "||" tambien llamado "OR" que en español significa "O", se usa cuando quieres que se cumpla una condicion 
+u otra, por ejemplo, si un numero es mayor a 2 "O" menos que 5 entonces ejecuta cierta accion.
+
+El tercero es "!" tambien llamado "NOT" que en español vendira siendo "NO" o "NEGACION", se usa cuando quieres cambiar al valor 
+apuesto al booleano, es decir, cada cosa en JavaScript se resuelve en dos parametros "true o false", lo que hace el ! es cambiar
+a verdadero si el resultado es falso y a falso si el resultado es verdadero, es decir su contrario.
