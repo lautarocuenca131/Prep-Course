@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Un objeto es una coleccion de datos (popiedades), donde se pueden agregar, quitar, modificar, cambiar, etc. 
+    JS suele basarse basicamente por completo en los objetos.
+	
+    * Propiedades: Una propiedad es una asociación entre un nombre (o clave) y un valor. 
+    El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
+	
+    * Métodos: Un metodo es una funcion que pertenece a un objeto.
+	
+    * Bucle `for…in`: Un for in es un tipo de bucle que gace repeticiones (interaciones) en las propiedades 
+    de los objetos (que no son simbolos).
+	
+    * Notación de puntos vs notación de corchetes: En pocas palabras la notacion en puntos (Dot notation) 
+    es mucho mas rapida de escribir y mas facil al momento de la lectura. Pero la notacion de corchetes 
+    (bracket notation) permite el acceso a propiedades con caracteres especiales, etc.
